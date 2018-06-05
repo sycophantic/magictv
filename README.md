@@ -1,2 +1,2 @@
 # magictv
-Dumps of the mtd partitons
+Dumps of the mtd partitions
